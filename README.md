@@ -3,7 +3,7 @@ Springboot and microservices applications
 
 //TODO will add each service information, port and configuration etc.
 
-//Port Details
+//Port Details <br/><br/>
 corrency-conversion-service     - 8100 <br/>
 currency-exchange-service       - 8000, 8001, 8002, 8003<br/>
 limits-service                  - 8080<br/>
