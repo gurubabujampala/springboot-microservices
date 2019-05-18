@@ -16,7 +16,7 @@ public class CurrencyExchangeServiceApplication {
 	}
 
 	@Bean
-	public Sampler getSampler(){
+	public Sampler defaultSampler(){
 		return Sampler.ALWAYS_SAMPLE;
 	}
 }

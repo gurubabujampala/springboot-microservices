@@ -18,7 +18,7 @@ public class NetflixZuulApiGatewayServerApplication {
 	}
 
 	@Bean
-	public Sampler getSampler(){
+	public Sampler defaultSampler(){
 		return Sampler.ALWAYS_SAMPLE;
 	}
 }
